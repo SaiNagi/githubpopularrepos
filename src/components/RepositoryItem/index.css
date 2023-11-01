@@ -1,0 +1,32 @@
+/* Write your CSS here */
+.repository-item-cont {
+  width: 300px;
+  background-color: #f8f8ff;
+  border-radius: 8px;
+  text-align: center;
+}
+
+.star-fill {
+  color: orange;
+}
+.fork-fill {
+  color: skyblue;
+}
+.error-fill {
+  color: red;
+}
+.repo-item-image {
+  height: 100px;
+  width: 100px;
+}
+
+.icon-paragraph {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+}
+.icon-img {
+  height: 30px;
+  width: 30px;
+}
